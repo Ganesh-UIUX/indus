@@ -1,0 +1,22 @@
+.all, .Sl, .Bl
+{
+    width: 250px;
+    
+}
+.snl, .sul, .bul, .bnl, .brl
+{
+    width: 250px;
+    
+}
+.hp1, .dell1, .lenovo1, .apple1, .acer1, .asus1
+{
+    width: 250px;
+}
+.Sp
+{
+    width: 250px;
+}
+.spn
+{
+    width: 250px;
+}
